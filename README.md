@@ -1,6 +1,6 @@
 # Dungeon Game
 
-### Dungeon layout
+### Entities
 
 The different types of entities are as follows:
 
